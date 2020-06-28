@@ -1,6 +1,16 @@
-# searchtosu
+# Islamic Application With Bangla Content
 
-A new Flutter application.
+#Fetchers
+    1.Prayer Time
+    2.Quran Sorif
+    3.Ojifa
+    4.Quran Meaning
+    5.Tasbih
+    6.Doya
+    7.Calender
+    8.Nearest Mosque
+    9.Kibla
+    10.Blog List etc................
 
 ## Getting Started
 
