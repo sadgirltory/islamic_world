@@ -1,16 +1,16 @@
 # Islamic Application With Bangla Content
 
-#Fetchers
-    1.Prayer Time
-    2.Quran Sorif
-    3.Ojifa
-    4.Quran Meaning
-    5.Tasbih
-    6.Doya
-    7.Calender
-    8.Nearest Mosque
-    9.Kibla
-    10.Blog List etc................
+##Fetchers
+   1.Prayer Time
+   2.Quran Sorif
+   3.Ojifa
+   4.Quran Meaning
+   5.Tasbih
+   6.Doya
+   7.Calender
+   8.Nearest Mosque
+   9.Kibla
+   10.Blog List etc................
 
 ## Getting Started
 
